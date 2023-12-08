@@ -6,13 +6,13 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 ### logos.py
 - ascii art with logos
 
-### day011_1_Blackjack
+### day011_1_Blackjack.py
 - BlackJack game
 - user and computer get randomly two cards, user can deal more cards as he wished and the scores are compared
 - the aim is to have a score of 21
 - cards are selected from a list with repetition, without given any specific probabilities to each card
 
-### day012_1_NumberGuessing
+### day012_1_NumberGuessing.py
 - Number Guessing Game
 - computer choose a random number from 1 to 100 and the user has to guess the correct answer
 - user choose from two difficulities: easy (10 attempts to guess the number) and hard (5 attempts)

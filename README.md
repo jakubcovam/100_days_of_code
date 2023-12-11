@@ -16,3 +16,10 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - Number Guessing Game
 - computer choose a random number from 1 to 100 and the user has to guess the correct answer
 - user choose from two difficulities: easy (10 attempts to guess the number) and hard (5 attempts)
+
+### day014_1_HigherLower.py
+- Higher/Lower game
+- computer randomly choose two oponents from a dataset (day014_1_HigherLower_GameDat.py)
+- user is trying to guess, which oponent has larger number of followers
+- if the guess is correct, there is a new oponent to compare to
+- the game ends when the user make a mistake

@@ -1,10 +1,10 @@
 # ------------------------------------------------------
 # All logos needed
 # ------------------------------------------------------
-
-# from the iternet
-# or https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
-
+'''
+- from the iternet
+- or https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+'''
 # ------------------------------------------------------
 logo_blackjack = """
 .------.            _     _            _    _            _    

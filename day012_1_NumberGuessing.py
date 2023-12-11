@@ -1,7 +1,10 @@
 # ------------------------------------------------------
 # Number guessing game
 # ------------------------------------------------------
-
+'''
+- computer choose a random number from 1 to 100 and the user has to guess the correct answer
+- user choose from two difficulities: easy (10 attempts to guess the number) and hard (5 attempts)
+'''
 # ------------------------------------------------------
 # Import libraries
 # ------------------------------------------------------

@@ -1,7 +1,11 @@
 # ------------------------------------------------------
 # The BlackJack game
 # ------------------------------------------------------
-
+'''
+- user and computer get randomly two cards, user can deal more cards as he wished and the scores are compared
+- the aim is to have a score of 21
+- cards are selected from a list with repetition, without given any specific probabilities to each card
+'''
 # ------------------------------------------------------
 # Import libraries
 # ------------------------------------------------------

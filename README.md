@@ -1,6 +1,6 @@
 ## 100 Days of Code
 
-My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 2023** created by Dr. Angela Yu on udemy.com. The codes are a little bit different than the ones given by Angela, but everything seems to work as I planned. 
+My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 2023** created by Dr. Angela Yu on udemy.com. The codes are a sometimes different than the ones given by Angela, but everything seems to work as I planned. 
 
 
 ### logos.py
@@ -23,3 +23,11 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - user is trying to guess, which oponent has larger number of followers
 - if the guess is correct, there is a new oponent to compare to
 - the game ends when the user make a mistake
+
+### day015_1_CoffeeMachine.py
+- Coffee Machine software
+- computer asks about your choice (espresso, latte, cappuccino)
+- user insert some coins
+- computer checks if he has enough money and ingredients, then serves you the drink
+- user can display a report of ingredients and machine profit, or turn the machine off
+  

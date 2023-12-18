@@ -1,4 +1,4 @@
-## 100 Days of Code
+## 💯 Days of Code 💪
 
 My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 2023** created by Dr. Angela Yu on udemy.com. The codes are a sometimes different than the ones given by Angela, but everything seems to work as I planned. 
 

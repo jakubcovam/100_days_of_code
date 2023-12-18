@@ -47,7 +47,7 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - before the race, user tries to bet the color of a turtle which will win the race
 - after the race, computer print out the winner
 
-## day020_SnakeGame
+### day020_SnakeGame
 - there is a snake made out of three segments
 - the snake can go up, down, left and right (changed by the cursor keys)
 - user have to feed the snake with the food which appear on the screen (blue circles)

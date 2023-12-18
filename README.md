@@ -33,13 +33,14 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 
 ### day017_QuizGame
 - this game teaches you to use classes and modules in Python
-- computer gives to the user a certain amount of guestions
+- computer gives to the user a certain amount of questions
 - user have to guess the answer (true/false)
 - computer gives a feedback about the answer and calculates the score
 - at the end, the final score of the quiz is printed
 - trivia questions can be created via https://opentdb.com/api_config.php
 
 ### day019_TurtleRace
+- this game teaches you basics from the 'turtle' class (https://docs.python.org/3/library/turtle.html)
 - there are 6 colored turtles
 - the starting line is on the left side of the screen, the finish is on the right side of the screen
 - each turtle moves forward by random number of steps (from 0 to 10)

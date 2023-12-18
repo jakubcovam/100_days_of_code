@@ -5,6 +5,7 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 
 ### ℹ️ logos.py
 - ascii art with logos
+- from https://ascii.co.uk/art or https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 ### ℹ️ day011_1_Blackjack.py
 - BlackJack game

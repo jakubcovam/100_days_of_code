@@ -46,3 +46,12 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - each turtle moves forward by random number of steps (from 0 to 10)
 - before the race, user tries to bet the color of a turtle which will win the race
 - after the race, computer print out the winner
+
+## day020_SnakeGame
+- there is a snake made out of three segments
+- the snake can go up, down, left and right (changed by the cursor keys)
+- user have to feed the snake with the food which appear on the screen (blue circles)
+- by eating the food, the snake becomes bigger
+- computer calculates the score which is printed on the screen
+- the game ends if there is a collision with the wall or tail
+- the 'game over' sign is also printed on the screen at the end of the game

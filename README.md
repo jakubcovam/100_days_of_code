@@ -30,4 +30,18 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - user insert some coins
 - computer checks if he has enough money and ingredients, then serves you the drink
 - user can display a report of ingredients and machine profit, or turn the machine off
-  
+
+### day017_QuizGame
+- this game teaches you to use classes and modules in Python
+- computer gives to the user a certain amount of guestions
+- user have to guess the answer (true/false)
+- computer gives a feedback about the answer and calculates the score
+- at the end, the final score of the quiz is printed
+- trivia questions can be created via https://opentdb.com/api_config.php
+
+### day019_TurtleRace
+- there are 6 colored turtles
+- the starting line is on the left side of the screen, the finish is on the right side of the screen
+- each turtle moves forward by random number of steps (from 0 to 10)
+- before the race, user tries to bet the color of a turtle which will win the race
+- after the race, computer print out the winner

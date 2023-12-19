@@ -66,3 +66,11 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - if the ball hit the right or the left wall, another round starts and the scores are updated
 - if the ball hit the bottom or the top wall, the ball is reflected and the game continues
 - after reflecting of the ball with the paddle, the speed of the ball increased a little
+
+### ℹ️ day023_CrossingStreet
+- game for one player
+- the goal is to cross a street without any collision with a car
+- the turtle is controlled by the 'up' arrow
+- if there is a collision with a car, the game ends
+- if the player successfully cross the street, next level starts
+- with increasing level, the car speed also increases

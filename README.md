@@ -56,3 +56,13 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - computer calculates the score which is printed on the screen
 - the game ends if there is a collision with the wall or tail
 - the 'game over' sign is also printed on the screen at the end of the game
+
+### ℹ️ day022_PongGame
+- pong game for two players
+- there are two paddles, one on the left and the other of the right side
+- right paddle is controlled by 'up' and 'down' arrows, left paddle by 'w' and 's' keys
+- there is a ball bouncing between the sides
+- each player has to reflect the ball with his paddle
+- if the ball hit the right or the left wall, another round starts and the scores are updated
+- if the ball hit the bottom or the top wall, the ball is reflected and the game continues
+- after reflecting of the ball with the paddle, the speed of the ball increased a little

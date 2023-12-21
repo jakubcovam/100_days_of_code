@@ -74,3 +74,11 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - if there is a collision with a car, the game ends
 - if the player successfully cross the street, next level starts
 - with increasing level, the car speed also increases
+
+### ℹ️ day028_Pomodoro
+- an application, which help you manage your time
+- 'work' for 25 minutes
+- after each working session, there is 5 minutes for 'short break'
+- after 4 working sessions, there is 20 minutes for 'long break'
+- current time and activity is displayed
+- user can start or reset the timer

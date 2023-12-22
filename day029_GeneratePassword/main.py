@@ -2,7 +2,7 @@
 # Password generator
 # ------------------------------------------------------
 '''
-- for creating passwords and saving them into a file
+- for creating passwords and saving them into a TXT file
 - user has to fill in the website name, email or username and password
 - the password can be generated randomly from letters, numbers and symbols
 - all inputs are saved as a new line in a file

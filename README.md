@@ -84,7 +84,8 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - user can start or reset the timer
 
 ### ℹ️ day029_GeneratePassword
-- for creating passwords and saving them into a file
+- for creating passwords and saving them into TXT (main.py) or JSON file (main_json.py)
 - user has to fill in the website name, email or username and password
 - the password can be generated randomly from letters, numbers and symbols
 - all inputs are saved as a new line in a file
+- user can search for saved information in the JSON file based on the website (only in main_json.py)

@@ -6,6 +6,7 @@
 - user has to fill in the website name, email or username and password
 - the password can be generated randomly from letters, numbers and symbols
 - all inputs are saved as a new line in a file
+- user can search for saved information in the JSON file based on the website
 '''
 # ------------------------------------------------------
 

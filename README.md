@@ -82,3 +82,9 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - after 4 working sessions, there is 20 minutes for 'long break'
 - current time and activity is displayed
 - user can start or reset the timer
+
+### ℹ️ day029_GeneratePassword
+- for creating passwords and saving them into a file
+- user has to fill in the website name, email or username and password
+- the password can be generated randomly from letters, numbers and symbols
+- all inputs are saved as a new line in a file

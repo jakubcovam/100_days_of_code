@@ -98,3 +98,11 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - back side of the card reveals the English meaning of the Deutsch word
 - if the user know the word, choose 'right', otherwise choose 'wrong'
 - the 'wrong' words are saved in a file for next learning
+
+### ℹ️ day034_APIQuiz
+- quiz game with GUI
+- computer gives to the user a certain amount of questions
+- user have to guess the answer (true/false)
+- computer gives a feedback about the answer and calculates the score
+- at the end, the final score of the quiz is printed
+- trivia questions are requested from https://opentdb.com/api_config.php

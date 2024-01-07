@@ -89,3 +89,12 @@ My scripts from the **100 Days of Code: The Complete Python Pro Bootcamp for 202
 - the password can be generated randomly from letters, numbers and symbols
 - all inputs are saved as a new line in a file
 - user can search for saved information in the JSON file based on the website (only in main_json.py)
+
+### ℹ️ day031_FlashCard
+- flash card for learning (languages, capital cities, flags, etc.)
+- front side of the card reveals a Deutsch word from the 100 (main.py) or 5000 (main_manual_flip.py) most frequent words
+- after 3 s, the cad is automatically flipped (main.py)
+- for flipping the card, click 'Flip card' (main_manual_flip.py)
+- back side of the card reveals the English meaning of the Deutsch word
+- if the user know the word, choose 'right', otherwise choose 'wrong'
+- the 'wrong' words are saved in a file for next learning
